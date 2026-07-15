@@ -73,6 +73,9 @@ The project consists of two datasets.
 
 Contains subscriber information including:
 
+* Username
+* Email
+* Social Media Handle
 * UserID
 * Gender
 * Race
