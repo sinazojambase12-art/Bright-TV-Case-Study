@@ -73,17 +73,17 @@ The project consists of two datasets.
 
 Contains subscriber information including:
 
-UserID
-Gender
-Race
-Province
-Age
+* UserID
+* Gender
+* Race
+* Province
+* Age
 
 #### Viewership
 
 Contains subscriber viewing sessions including:
 
-UserID
-Channel
-Viewing Date & Time
-Viewing Duration
+* UserID
+* Channel
+* Viewing Date & Time
+* Viewing Duration
