@@ -1,5 +1,6 @@
 # 📺 BrightTV Viewership Analytics
-
+  ## Loveable Dashboard:
+  https://tvmetrics-hq.lovable.app
 ## Overview
 
 This project presents a complete end-to-end data analytics solution for the **BrightTV Viewership Analytics Case Study**. The objective is to analyze subscriber viewing behaviour, identify factors that influence content consumption, and provide strategic recommendations to help BrightTV grow its subscriber base.
@@ -333,6 +334,7 @@ The final solution enables BrightTV management to:
 # Author
 
 **Sinazo Bhokiya**
+https://tvmetrics-hq.lovable.app
 
 Geology Graduate | Data Analytics Enthusiast | Aspiring Data Scientist
 
